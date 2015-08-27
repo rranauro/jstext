@@ -1,0 +1,11 @@
+{
+  "name": "jstext",
+  "version": "0.0.1",
+  "description": "text utilities",
+  "license": "MIT"
+  "main": "index.js",
+  "dependencies": {
+    "underscore":"1.4.4",
+    "base-utils": ""
+  }
+}
