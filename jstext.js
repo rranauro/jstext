@@ -816,5 +816,5 @@ var subStringMatcher = function(strs) {
 };
 
 module.exports.subStringMatcher = subStringMatcher;
-
+module.exports.stopwords = require('./stopwords');
 
