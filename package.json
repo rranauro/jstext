@@ -5,6 +5,6 @@
   "license": "MIT",
   "main": "index.js",
   "dependencies": {
-    "base-utils": "git@github.comr:rranauro/base-utils.git"
+    "base-utils": "git@github.com:rranauro/base-utils.git"
   }
 }
