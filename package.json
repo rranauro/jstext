@@ -1,10 +1,10 @@
 {
   "name": "jstext",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "text utilities",
   "license": "MIT",
   "main": "index.js",
   "dependencies": {
-    "base-utils": "git+https://github.com/rranauro/base-utils.git"
+    "base-utils": "git@github.comr:rranauro/base-utils.git"
   }
 }
