@@ -381,8 +381,7 @@ exports.Hash = Hash;
 var stemmer = exports.stemmer
 
 var JSTEXT = function() {
-	var _ = require('base-utils')._
-	, JSTEXT = {};
+	var JSTEXT = {};
 	
 	// sums the elements of an array
 	var sum = function (a) {

@@ -5,7 +5,7 @@ js-text provides methods for analyzing strings of text, including [stopword](htt
 ###Dependencies
 
 * [underscore](underscore.org)
-* [base-utils](https://github.com/rranauro/base-utils)
+* [toolbelt](https://github.com/rranauro/toolbelt)
 
 ###Summary
 
