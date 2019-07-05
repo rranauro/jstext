@@ -31,7 +31,7 @@
 // CommonJS tweak by jedp
 
 var _ = require('underscore')._
-_.mixin(require('base-utils'));
+_.mixin(require('toolbelt'));
 
 (function() {
   var step2list = {
