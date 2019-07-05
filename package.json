@@ -1,10 +1,32 @@
 {
   "name": "jstext",
-  "version": "0.0.2",
-  "description": "text utilities",
-  "license": "MIT",
+  "version": "1.0.0",
+  "description": "Text processing utilities.",
   "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rranauro/jstext.git"
+  },
+  "keywords": [
+    "TFIDF",
+    "text",
+    "similarity",
+    "editDistance"
+  ],
+  "author": "Ron Ranauro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rranauro/jstext/issues"
+  },
+  "homepage": "https://github.com/rranauro/jstext#readme",
   "dependencies": {
-      "toolbelt": "git+https://github.com/rranauro/toolbelt.git",
+    "toolbelt": "git+https://github.com/rranauro/toolbelt.git",
+    "underscore": "^1.9.1"
   }
 }
