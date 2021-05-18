@@ -30,11 +30,11 @@
 //
 // CommonJS tweak by jedp
 
-var _ = require('underscore')._
-_.mixin(require('toolbelt'));
-
 (function() {
-  var step2list = {
+	const _ = require('underscore')._
+	_.mixin(require('toolbelt'));
+	
+	var step2list = {
       "ational" : "ate",
       "tional" : "tion",
       "enci" : "ence",
