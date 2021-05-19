@@ -29,11 +29,7 @@
 // Release 2 (substantially revised) by Christopher McKenzie, Aug 2009
 //
 // CommonJS tweak by jedp
-
 (function() {
-	const _ = require('underscore')._
-	_.mixin(require('toolbelt'));
-	
 	var step2list = {
       "ational" : "ate",
       "tional" : "tion",
