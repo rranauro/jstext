@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/rranauro/jstext#readme",
   "dependencies": {
-    "toolbelt": "git+https://github.com/rranauro/toolbelt.git",
+    "toolbelt": "git+https://github.com/rranauro/toolbelt.git#v1.0.0",
     "underscore": "^1.9.1"
   }
 }

@@ -29,8 +29,9 @@
 // Release 2 (substantially revised) by Christopher McKenzie, Aug 2009
 //
 // CommonJS tweak by jedp
-const _ = require('underscore');
-_.mixin(require('toolbelt'));
+
+const toolbelt = require('toolbelt');
+const _ = require('underscore').mixin(toolbelt);
 
 (function() {
 	var step2list = {
